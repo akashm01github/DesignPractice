@@ -27,7 +27,7 @@ This repo is a collection of design exercises and mini-projects built while lear
 
 1. Clone the repo
 ```bash
-   git clone https://github.com/<your-username>/design-practice.git
+   git clone https://github.com/akashm01github/DesignPractice
 ```
 2. Navigate into a folder
 ```bash
@@ -35,13 +35,7 @@ This repo is a collection of design exercises and mini-projects built while lear
 ```
 3. Open `index.html` in your browser or use Live Server
 
-## 📈 Progress
-
-- [ ] HTML/CSS basics
-- [ ] SCSS setup & practice
-- [ ] Tailwind CSS projects
-- [ ] Bootstrap components
-- [ ] JavaScript interactivity
+--
 
 ## 📄 License
 
